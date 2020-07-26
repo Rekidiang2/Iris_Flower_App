@@ -11,6 +11,7 @@ pandas = "*"
 requests = "*"
 numpy = "*"
 camelcase = "*"
+streamlit = "*"
 
 [requires]
 python_version = "3.7"

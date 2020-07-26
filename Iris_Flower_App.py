@@ -6,5 +6,5 @@ def main():
     st.title("Iris Flower EDA application")
     st.subheader("Streamlit is cool")
 
-if if __name__ == "__main__":
+if __name__ == "__main__":
     main()
